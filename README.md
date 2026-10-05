@@ -2,6 +2,11 @@
 
 ### Um sistema de registro epistêmico ponto-a-ponto
 
+> ## **Uma proposta em síntese para os problemas mapeados da AGI —
+> ## com raízes epistêmicas de três mil anos.**
+>
+> **Não encarece o ataque. Barateia a conferência.**
+
 > **`CC BY-SA`** · receita zero · **AMARYAPU** · 2026
 
 ---
@@ -69,3 +74,18 @@ Copie, adapte, traduza, refaça e publique — **mantendo a licença aberta.**
 
 **AMARYAPU** não é nome próprio: é substantivo comum em guarani — *amã*, chuva; *ryapu*,
 estrondo — registrado por **Montoya, 1639**.
+
+---
+
+> ## `[INTERPRETATIVO]` E «em síntese» carrega dois sentidos, e os dois valem.
+>
+> **Síntese**, no sentido comum: **o condensado de setenta capítulos de pesquisa num protocolo de
+> seis campos.**
+>
+> **E [`Síntese`](https://github.com/poliorketike/rap-protocolo), o grupo** — cuja obra enuncia,
+> **antes deste documento e em forma própria**, a proposição que ele formaliza:
+>
+> ## **«examine — crime é quando me define, ao definir você me nega.»**
+>
+> **`[REGRA]`** O grupo não foi consultado e **não responde por nenhuma linha daqui.** A
+> descrição que se faz da obra dele **pode ser corrigida ou retirada a pedido.**

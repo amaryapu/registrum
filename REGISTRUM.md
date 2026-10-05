@@ -2,8 +2,12 @@
 
 ## Um sistema de registro epistêmico ponto-a-ponto
 
-**AMARYAPU**
-`CC BY-SA` · receita zero · 2026
+> ## **Uma proposta em síntese para os problemas mapeados da AGI —
+> ## com raízes epistêmicas de três mil anos.**
+>
+> **Não encarece o ataque. Barateia a conferência.**
+
+**AMARYAPU** · `CC BY-SA` · receita zero · 2026
 
 ---
 
