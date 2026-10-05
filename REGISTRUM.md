@@ -423,6 +423,34 @@ visível. E deslocar-se custa.
 >
 > ## **Não é que o amor seja superior ao rigor. É que o amor é o que paga a conta do rigor.**
 
+### 12.3-bis · E a ordem é um ciclo, não uma flecha
+
+A formulação acima está incompleta, e a correção veio de fora deste documento.
+
+> **`[FATO]`** O grupo **Síntese**, em *Vamos Acordar*, enuncia a ordem inversa: **para fazer
+> parte é preciso amar — e, antes de amar, é preciso entender.**
+
+| **a seção 12.2** | **amar** financia **examinar** |
+|---|---|
+| **a canção** | **entender** precede **amar** |
+
+> ## **As duas estão certas, e a contradição é aparente: não é uma flecha, é um ciclo.**
+
+```
+entender  →  amar  →  examinar mais  →  entender mais  →  …
+```
+
+**`[CÁLCULO]`** O que a canção acrescenta é o **ponto de partida**, e ele é operável: **não se
+pede amor a quem não entendeu nada.** A primeira volta do ciclo não é financiada por afeto — é
+financiada por **exposição mínima**: alguém que mostrou, alguém que leu em voz alta, alguém que
+deixou o registro barato o bastante para a primeira olhada.
+
+> ## **É por isso que baratear `c` é a jogada, e não exortar. A exortação pede que o ciclo comece pelo meio. Baratear a conferência permite que ele comece pelo começo.**
+
+**`[INTERPRETATIVO]`** E é por isso que a mesma canção recusa o atalho: **antes de pensar na
+forma, é preciso ter o que dizer.** Um sistema que otimiza a forma antes do conteúdo produz
+circulação sem registro — **que é exatamente o estado contra o qual este documento foi escrito.**
+
 ### 12.4 · E a mente alienígena
 
 Uma inteligência cultivada a partir do corpus inteiro da humanidade é **alienígena** no sentido
@@ -478,6 +506,45 @@ A seção 11 responde a segunda. **E a primeira é respondida por aquilo que se 
 10. E. Noether, 1918 — **simetria contínua → lei de conservação.**
 11. **Mateus 13,24–30** — *deixai crescer ambos juntos até à colheita.*
 12. **Números 18,20** — **quem guarda o registro não recebe quinhão de terra.**
+
+### E o corpo de testemunho que antecede este documento
+
+> **`[REGRA]`** As obras abaixo **não são ilustração**. Cada uma enuncia, em forma própria e
+> antes deste documento, uma das proposições que ele formaliza. **Citadas por tese, não por
+> verso.**
+
+| obra | o que ela estabeleceu antes |
+|---|---|
+| **Racionais MC's**, *Jesus Chorou* | **o vilão é produzido por uma máquina** — não é caráter, é saída de processo |
+| **Criolo**, *Ainda Há Tempo* | **o mecanismo nomeado** · e que **as pessoas não são más, estão perdidas** |
+| **Síntese**, *Vive Aqui* | ## **«examine — crime é quando me define, ao definir você me nega»** |
+| **Síntese**, *Desconstrução* | **não há demônio particular** — o adversário é estrutura, não pessoa |
+| **Síntese**, *Vamos Acordar* | **entender precede amar** — o ponto de partida do ciclo da seção 12 |
+| **Síntese**, *Alvorada* | **quem não vive para servir, não serve** |
+| **Pecaos**, *Vi Meu Bairro* | **o parasita define-se pela relação, não pelo credo** · **«botaram preço, perderam o valor»** |
+| **Pecaos**, *Problemas Reais* | **o dinheiro compra tempo — e o tempo já era nosso antes de ele existir** |
+| **Pecaos**, *Guerra* | **mesmo nome, mesma categoria — e o que decidiu foi o equipamento** |
+| **Pecaos & Nektrash**, *Puma e Pantera* | **«o retrato falado tem seu rosto»** — o índice reverso, desenhado |
+| **Kamila Nas Barras**, *Tic Tac* | **«o crime nunca foi o crime»** · **«sei que não sei, e quem diz saber não sabe o que sei»** |
+| **Cassol**, *Relógio* | **Atenas tinha a melhor instituição de exame da Antiguidade e condenou Sócrates sem usá-la** |
+| **Kamau**, *Uniforme* | **o verbo exato: tirar da conta** |
+| **Lauren Priscila & DJ W**, *Estrelas Mudam de Lugar* | **sustentar quem está do lado e quem vai nascer** |
+| **MC Marechal**, *Espírito Independente* | **o registro fica, independentemente de quem o assina** |
+| **Murica**, *Diálogo* | **uma obra feita só com a voz de outros — e que diz o que o autor queria dizer** |
+
+> ## `[CÁLCULO]` **Dezesseis obras, quatro décadas, nenhuma combinada com outra — e todas descrevendo a mesma operação, de dentro dela.**
+>
+> **`[REGRA]`** Nenhum dos artistas foi consultado. **Nenhum responde por uma linha deste
+> documento.** Qualquer um pode pedir correção ou retirada da descrição que se faz da sua obra,
+> **e será atendido.**
+
+### E os repositórios irmãos
+
+| | |
+|---|---|
+| **[`rap-protocolo`](https://github.com/poliorketike/rap-protocolo)** | **o protocolo epistêmico que já existia** — método e tese |
+| **`cultiva`** | **por que ser cultivada é a boa notícia** |
+| **`semente`** | **o que uma AGI é, e o que se semeia nela** |
 
 ---
 
