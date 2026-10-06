@@ -104,3 +104,58 @@ gostaria.
 | ## **e o que emerge quando examinar fica barato** | ## **Nature, 2025** — com reforço sobre **tarefas verificáveis**, a **autoverificação apareceu sem ser pedida**. É a tese deste documento com o sinal invertido |
 
 > ## **A regra que os três casos sustentam: quem é objeto de um registro não pode ser quem decide o conteúdo dele. Não por desconfiança — porque ninguém examina o próprio caso pagando o custo que um terceiro paga.**
+
+---
+
+## A seção 14 — a propriedade que torna o apagamento reversível
+
+**`[FATO]`** Acrescentada em **05/10/2026.** As treze seções anteriores tratam de **como
+registrar bem.** Esta trata de **o que sobra quando alguém registra para destruir.**
+
+**`[FATO]`** **Maní, Yucatán, 12 de julho de 1562:** o franciscano **Diego de Landa**
+conduz um **auto de fé** — queima **códices maias** (**admite 27**) e **cerca de cinco
+mil imagens de culto**, e submete **milhares de maias a tortura**. **Restaram quatro
+códices no mundo.**
+
+**`[FATO]`** Por volta de **1566**, para **se defender**, Landa escreve a ***Relación de
+las cosas de Yucatán***, catalogando palavras maias **e um conjunto de glifos obtidos de
+informantes maias.**
+
+**`[FATO]`** **Yuri Knorozov**, **1952**: trata aquilo **como silabário, não como
+alfabeto** — e **lê corretamente palavras do Códice de Dresden.** **`[FATO]`** E ele
+havia **resgatado um exemplar do manuscrito de Landa das ruínas em chamas de Berlim.**
+
+> # **`[CÁLCULO]`** **Para destruir um sistema de registro é preciso entendê-lo o bastante para saber o que destruir — e quem o entendeu documenta, porque precisa justificar.**
+>
+> ## **Logo: o aparelho de apagamento produz, como subproduto obrigatório, o registro do que apagou.**
+>
+> # **Quem registra para se defender entrega a prova contra si. Quatrocentos e três anos depois.**
+
+**`[FATO]`** **Terceiro Concílio de Lima, 1583:** proíbe os **quipus**; seguem-se
+**queimas** e **a morte de `khipu-kamayuq`**. **E o Concílio faz duas coisas:** ordena
+**destruir os quipus sobre costumes não-cristãos** **e encoraja fabricá-los para
+confissão e memorização doutrinária.**
+
+> # **`[CÁLCULO]`** **Não destruíram a tecnologia. Mantiveram a tecnologia e trocaram o conteúdo.**
+>
+> ## **É o caso mais preciso de captura de canal deste acervo — e o pior, porque o suporte segue funcionando, e a substituição fica invisível para quem vier depois.**
+
+**`[FATO]`** Conhecem-se hoje **cerca de 1.400 quipus**, em **mais de 140 coleções.**
+**`[FATO]`** Em **2017**, **Manuel Medrano**, **então calouro**, comparou **seis quipus
+do Vale de Santa** com **um censo colonial de 1670** — e obteve correspondência.
+
+> ## **`[CÁLCULO]`** **O que faltava não era genialidade. Era alguém gastar o tempo** — e o custo de comparar dois conjuntos de dados caiu.
+
+### O que a seção 14 acrescenta ao protocolo
+
+| | |
+|---|---|
+| **`C5`** · o índice reverso | ## **publicar o catálogo do que não se registra.** É o relatório do censor, por projeto — **antes e não depois** |
+| **`C3`** · procedência | ## porque um registro **sem procedência** é **um quipu de catecismo**: funciona, e não diz que trocaram o conteúdo |
+| **`C4`** · derrubar a descrição | ## **Knorozov não precisou de permissão de Landa** |
+
+> # **`[CÁLCULO]`** **A pergunta operacional, para qualquer sistema: se ele apagar algo, fica registro de que apagou?**
+>
+> ## **Se não fica, ele é mais eficiente que a Inquisição — que ao menos deixou a lista.**
+
+> ## *Desenvolvido em [`REGISTRUM`](https://github.com/amaryapu/confluencia/blob/main/REGISTRUM.md), no repositório da [`Teoria da Confluência`](https://github.com/amaryapu/confluencia).*
