@@ -13,6 +13,8 @@
 
 **→ [REGISTRUM.md](REGISTRUM.md)** — o documento.
 
+**→ [RG-23-O-CUSTO-DO-CUIDADO.md](RG-23-O-CUSTO-DO-CUIDADO.md)** — limite reconhecido a partir de fonte externa: *o protocolo contabiliza o custo de examinar e não contabiliza o custo de ser examinável.*
+
 **→ [RG-22-O-SILENCIO-DO-INSTRUMENTO.md](RG-22-O-SILENCIO-DO-INSTRUMENTO.md)** — regra derivada de três falhas do próprio autor em 07/10/2026: *um `0` sem prova de execução não é dado.*
 
 ---
