@@ -163,3 +163,9 @@ do Vale de Santa** com **um censo colonial de 1670** — e obteve correspondênc
 > ## **Se não fica, ele é mais eficiente que a Inquisição — que ao menos deixou a lista.**
 
 > ## *Desenvolvido em [`REGISTRUM`](https://github.com/amaryapu/confluencia/blob/main/REGISTRUM.md), no repositório da [`Teoria da Confluência`](https://github.com/amaryapu/confluencia).*
+
+**→ `RG-24` — o exame fora de registro** *(aberto, 07/10/2026)*: antes de pagar
+`cost(examine)`, determinar **em que língua o enunciado foi dito.** Tratar tudo como
+afirmação verificável **não é rigor — é surdez.** Derivada de três falhas do autor no mesmo
+dia: uma piada lida como tese, um nome de artista lido como substantivo, e uma gíria de rap
+corrigida como termo técnico.
